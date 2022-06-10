@@ -1,0 +1,32 @@
+body {
+    font-size: 20px;
+    background-color: white;
+}
+
+.main {
+    display: flex;
+    margin: 0px auto;
+}
+
+.top {
+    padding-left: 10px;
+}
+.story {
+    padding-top: 300px;
+    padding-left:200px;
+    width: 600px;
+    height: 150px;
+}
+.name {
+    color: coral;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 34px;
+}
+.plan {
+    padding-top: 450px;
+}
+
+.plan-list {
+    padding: 0px;
+    margin-left: 15px;
+}
