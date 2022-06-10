@@ -1,0 +1,247 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #F5F7FA;
+}
+.Main{
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    margin: 0px auto;
+       }
+ .content {
+       background-color: #FFFFFF;
+    background-image: url(../img/12.png);
+       padding: 105px 90px;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+   }
+.sidebar{
+    background-color: #1E2939;
+    padding-top: 40px;
+    width: 370px;
+   }
+.tech {
+    color: #FFFFFF;
+        font-style: Bold;
+        font-size: 22px;
+        line-height: 27px;
+        line-height: 100%;
+        margin-left: 40px;
+}
+.soft {
+    color: #FFFFFF;
+    margin-left: 40px;
+
+}
+.cont {
+    color: #FFFFFF;
+    font-style: Bold;
+     font-size: 22px;
+     line-height: 27px;
+     line-height: 100%;
+     margin-left: 40px;
+     margin-bottom: 50px;
+  }
+.photo {
+    width: 370px;
+    margin-bottom: 50px;
+}
+.C,.E{
+    Font-style: Bold; 
+    Font-size: 14px; 
+    Line-height: 24px; 
+    Line-height: 141%;
+    color: #FFFFFF;
+}
+.contlink{
+    Font-style: Regular;
+     Font-size: 14px;
+      Line-height: 24px; 
+      Line-height: 141%;
+      color: #565E6A;
+      margin-left: 5px;
+}
+.contacts-title{
+    margin-bottom: 10px;
+    color: #FFFFFF;
+}
+.tech-list {
+    padding-left: 0px;
+    margin-left: 17px;
+}
+.tech-skill-text {
+    color: #FFFFFF;
+    font-size: Regular;
+     Font-size: 14px; 
+     Line-height: 24px; 
+     Line-height: 141%;
+}
+.tech-skill-item {
+    color: #FB6D3A;
+    Font-style: Bold;
+     Font-size: 14px; 
+     Line-height: 24px; 
+     Line-height: 141%;
+}
+.soft-titile {
+    Font-style: Bold; 
+    Font-size: 22px;
+    Line-height: 27px;
+    Line-height: 100%;
+}
+.soft-list {
+    padding-left: 0px;
+    margin-left: 20px;
+    Font-style: Regular;
+    Font-size: 14px;
+    Line-height: 24px;
+    Line-height: 141%;
+}
+.soft-skill-item {
+    Font-style: Bold;
+    Font-size: 14px;
+    Line-height: 24px;
+    Line-height: 141%;
+    color: #FB6D3A;
+}
+.soft-skill-text {
+    Font-style: Regular;
+    Font-size: 14px;
+    Line-height: 24px;
+    Line-height: 141%;
+    color: #FFFFFF;
+}
+.RKF {
+    color: #FB6D3A;
+}
+.About {
+margin-bottom: 40px;
+}
+h2 {
+Font-style: Bold; 
+Font-size: 14px; 
+Line-height: 17px;
+Line-height: 100%;
+color: #000000;
+margin-bottom: 20px;
+}
+.name {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+    color: #000000;
+    margin-bottom: 25px;
+}
+.lorem {
+    font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 24px;
+        color: #595959;
+        width: 400px;
+}
+.title {
+    font-style: normal;
+        font-weight: 700;
+        font-size: 22px;
+        line-height: 27px;
+       color: #000000;
+}
+.projects {
+    width: 485px;
+}
+.proj-info {
+    padding: 0px;
+    margin-left: 15px;
+}
+.proj-stroke {
+font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000000;
+    }
+.proj-link {
+font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+.proj-bracet {
+    font-style: normal;
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 24px;
+          color: #000000;
+}
+.link {
+    color:  #595959;
+}
+.company1 {
+    margin-bottom: 15px;
+}
+.company2 {
+    margin-bottom: 20px;
+}
+.company3 {
+    margin-bottom: 40px;
+}
+.work-pos {
+    font-style: normal;
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 20px;
+        color: #000000;
+        margin-bottom: 10px;
+}
+.time-work {
+    font-style: normal;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 15px;
+        color: #A8A8A8;
+        margin-bottom: 10px;
+}
+.work-info {
+    padding: 0px;
+    margin-left: 15px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+.work {
+    width: 525px;
+}
+.work-braket {
+    font-style: normal;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 15px;
+        color: #000000;
+}
+.name-edu {
+    font-style: normal;
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 20px;
+        color: #FB6D3A;
+        margin-top: 10px;
+        margin-bottom: 10px;
+}
+.pos-edu {
+    font-weight: 700;
+        font-size: 14px;
+        line-height: 17px;
+        color: #000000;
+        margin-bottom: 10px;
+}
+.time-edu {
+    font-style: normal;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 15px;
+        color: #A8A8A8;
+}
